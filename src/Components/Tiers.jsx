@@ -43,7 +43,7 @@ function Tiers() {
                         </span>
                         <p className="tier-title back averia py-5">Deluxe Tier</p>
                         <ul className="text-left px-8 list-disc">
-                            <li className="tier-description averia-light back text-[10px]">Up to 7 pages.</li>
+                            <li className="tier-description averia-light back text-[10px]">Website can have 7+ pages.</li>
                             <li className="tier-description averia-light back text-[10px]">Online ordering system integration.</li>
                             <li className="tier-description averia-light back text-[10px]">Monthly sales report.</li>
                             <li className="tier-description averia-light back text-[10px]">Unlimited edits per month.</li>
