@@ -26,8 +26,16 @@ function Benefits() {
               pauseOnHover: true,
               trimSpace: false,  
               breakpoints: {
-                320: {
+                640: {
                     perPage: 1,
+                },
+
+                1024: {
+                    perPage: 2,
+                },
+
+                1350: {
+                    perPage: 3,
                 }
             }
             }}>
