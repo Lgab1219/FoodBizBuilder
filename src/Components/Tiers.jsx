@@ -55,7 +55,7 @@ function Tiers() {
 
                         <span className="tier-highlight bg-secondary w-full text-center 
                         averia-light back text-[10px] py-2 content-center my-5">
-                            <p>$50/month (subscription) or $299 (one-time)</p>
+                            <p>$299/month (subscription) OR $2000 (one-time)</p>
                         </span>
                         <div className="flex justify-center">                            
                             <a href="#contact" className="tier-button averia-light justify-center content-center 
