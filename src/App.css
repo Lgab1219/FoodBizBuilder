@@ -6,6 +6,17 @@
   cursor: pointer;
 }
 
+.learn-more {
+  margin: 3em 0;
+  cursor: pointer;
+}
+
+.book-button:hover, .tier-button:hover, .call-button:hover {
+  transform: scale(1.05);
+  transition: transform 0.2s ease-in;
+  background-color: #9d222e;
+}
+
 .benefit-title, .tier-title {
   font-size: 1.3rem;
   padding: 1rem 1vw;
@@ -106,7 +117,7 @@
 
 .tier-highlight { padding: 2vw 0; }
 
-.tier-button { margin-bottom: 3vw; }
+.tier-button { margin-bottom: 3em; }
 
 .tier-card {
   width: 45vw;
