@@ -15,7 +15,7 @@ function Hero() {
                 </h1>
                 
                 <span className="learn-more mb-20">
-                    <p className="averia-light main">Learn more</p>
+                    <a href="#benefits" className="averia-light main">Learn more</a>
                     <section className="justify-center flex py-2">
                         <div className="more-arrow"></div>
                     </section>

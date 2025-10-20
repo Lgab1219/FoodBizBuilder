@@ -22,7 +22,7 @@ function Contact() {
                         Take the next step by clicking the button to book a strategy call
                         with us.
                     </p>
-                    <a href="https://calendly.com/lancegabrielmaghanoy/15min" className="averia-light flex justify-center content-center 
+                    <a href="https://calendly.com/lancegabrielmaghanoy/15min" className="call-button averia-light flex justify-center content-center 
                     py-3 my-3 items-center text-center rounded-3xl bg-extra back text-sm">
                         Book a call
                     </a>
