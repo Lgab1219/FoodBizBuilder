@@ -57,8 +57,7 @@ function Benefits() {
                         <h3 className='benefit-title averia back pb-2'>
                         Built for growth</h3>
                         <p className='benefit averia-light back pb-2 text-sm'>
-                        You can start small (Growth Tier) and upgrade later 
-                        (Deluxe Tier with ordering + sales reports). My services grows 
+                        You can start small and upgrade later. My services grow 
                         with your business instead of locking it into a one-size-fits-all
                         website.</p>
                         <h1 className='page-num averia back'>2</h1>
@@ -85,16 +84,6 @@ function Benefits() {
                         subscription ($50/month) — perfect for startups with tight budgets. Plus, you can 
                         own the website after a set period!</p>
                         <h1 className='page-num averia back'>4</h1>
-                    </div>
-                </SplideSlide>
-                <SplideSlide>
-                    <div className='page h-[350px] flex flex-col bg-main py-[4%] px-[7vw] text-[3rem]'>
-                        <h3 className='benefit-title averia back pb-2'>
-                        Convenience & Maintenance</h3>
-                        <p className='benefit averia-light back pb-2 text-sm'>
-                        You don’t need to worry about tech headaches like hosting, maintenance, and updates. 
-                        Everything is managed for you, so they can focus on running you business.</p>
-                        <h1 className='page-num averia back'>5</h1>
                     </div>
                 </SplideSlide>
                     
